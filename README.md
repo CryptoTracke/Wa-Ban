@@ -14,7 +14,7 @@ pkg install git -y
 
 git clone https://github.com/CryptoTracke/Wa-Ban
 
-cd wa-ban
+cd wa-Ban
 
 chmod +x *
 
